@@ -1,2 +1,2 @@
 # vedant-demo
-this is my first gib repo
+this is my first git repo
